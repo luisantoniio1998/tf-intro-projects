@@ -8,10 +8,10 @@ Collection of introductory deep learning projects from the "Introduction to Tens
 - Real-world ML applications
 
 ## Technologies
-- TensorFlow 2.x
+- TensorFlow 
 - Keras
 - NumPy
-- Python 3.x
+- Python
 
 ## Course
 Part of the DeepLearning.AI TensorFlow Developer Professional Certificate
