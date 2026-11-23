@@ -1,17 +1,5 @@
-# TensorFlow Introduction Projects
-Collection of introductory deep learning projects from the "Introduction to TensorFlow for AI, ML and Deep Learning" course.
+# TensorFlow course projects
 
-## Projects
-- Basic neural networks
-- Computer vision basics 
-- Image classification
-- Real-world ML applications
+My introductory exercises from DeepLearning.AI’s *Introduction to TensorFlow for AI, ML and Deep Learning* course.
 
-## Technologies
-- TensorFlow 
-- Keras
-- NumPy
-- Python
-
-## Course
-Part of the DeepLearning.AI TensorFlow Developer Professional Certificate
+The projects cover basic neural networks, computer vision, and image classification using Python, TensorFlow, Keras, and NumPy.
